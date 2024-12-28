@@ -23,8 +23,8 @@ void tampilkanMenu() {
     cout << "==============================" << endl;
     cout << "1. Masukkan Data" << endl;
     cout << "2. Tampilkan  Data Kelas" << endl;
-    cout << "3. Update Data Kelas" << endl;
-    cout << "4. Hapus Data" << endl;
+    cout << "3. Update Data Kelas" << endl; 
+    cout << "4. Hapus Data Kelas" << endl;
     cout << "5. Keluar" << endl;
     cout << "==============================" << endl;
     cout << "Masukkan pilihan: ";
