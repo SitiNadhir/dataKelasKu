@@ -22,7 +22,7 @@ void tampilkanMenu() {
     cout << "  Aplikasi Pencatatan Data   " << endl;
     cout << "==============================" << endl;
     cout << "1. Masukkan Data" << endl;
-    cout << "2. Tampilkan Semua Data" << endl;
+    cout << "2. Tampilkan  Data Kelas" << endl;
     cout << "3. Update Data" << endl;
     cout << "4. Hapus Data" << endl;
     cout << "5. Keluar" << endl;
